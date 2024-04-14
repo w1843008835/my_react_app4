@@ -8,11 +8,12 @@ import Demo2 from './Demo2'
 import Demo3 from './Demo3'
 import Demo4 from './Demo4'
 import Demo5 from './Demo5'
+import Demo6 from './Demo6'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Demo5 />
+    <Demo6 />
   </React.StrictMode>
 );
 
