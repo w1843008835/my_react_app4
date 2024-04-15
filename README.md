@@ -82,3 +82,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Demo6 forwardRef
 
 ### Demo7 useImperativeHandle
+
+### Demo8 class 类组件基础结构
