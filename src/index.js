@@ -12,12 +12,13 @@ import Demo6 from './Demo6'
 import Demo7 from './Demo7'
 import Counter from './Demo8'
 import Demo9 from './Demo9'
+import Demo10 from './Demo10'
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Demo9 />
+    <Demo10 />
   </React.StrictMode>
 );
 

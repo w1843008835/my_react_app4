@@ -86,3 +86,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Demo8 class 类组件基础结构
 
 ### Demo9 类组件生命周期函数 componentDidMount，componentWillUnmount
+
+### Demo10 类组件的组件通信（父组件和子组件之间传值）
