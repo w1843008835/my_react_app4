@@ -90,3 +90,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Demo10 类组件的组件通信（父组件和子组件之间传值）
 
 ### Demo11 zustand(状态管理工具)的基础用法
+
+### Demo12 zustand 异步支持
